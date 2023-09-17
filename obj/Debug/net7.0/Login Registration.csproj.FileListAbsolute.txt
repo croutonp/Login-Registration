@@ -1,0 +1,39 @@
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\Login Registration.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\Login Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\Login Registration.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\Login Registration.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\Login Registration.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\Login Registration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\Login Registration.RazorAssemblyInfo.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\Login Registration.RazorAssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\bin\Debug\net7.0\appsettings.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\bin\Debug\net7.0\Login Registration.staticwebassets.runtime.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\bin\Debug\net7.0\Login Registration.exe
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\bin\Debug\net7.0\Login Registration.deps.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\bin\Debug\net7.0\Login Registration.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\bin\Debug\net7.0\Login Registration.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\bin\Debug\net7.0\Login Registration.pdb
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\bin\Debug\net7.0\Humanizer.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\staticwebassets\msbuild.Login Registration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\staticwebassets\msbuild.build.Login Registration.props
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Login Registration.props
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Login Registration.props
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\scopedcss\bundle\Login Registration.styles.css
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\scopedcss\projectbundle\Login Registration.bundle.scp.css
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\Login Registration.csproj.CopyComplete
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\Login Registration.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\refint\Login Registration.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\Login Registration.pdb
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\Login Registration.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\Login Registration\obj\Debug\net7.0\ref\Login Registration.dll
